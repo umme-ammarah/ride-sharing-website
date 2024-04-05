@@ -1,0 +1,8 @@
+@font-face {
+  font-family: gilory;
+  src: url(/fonts/Gilroyfont/Gilroy-Medium.ttf);
+}
+.gilory-font {
+  font-family: gilory;
+  font-weight: 500;
+}
