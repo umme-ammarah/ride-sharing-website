@@ -2,7 +2,19 @@
   font-family: gilory;
   src: url(/fonts/Gilroyfont/Gilroy-Medium.ttf);
 }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .gilory-font {
   font-family: gilory;
   font-weight: 500;
+}
+.primary-color {
+  background-color: rgba(117, 191, 122, 1);
+}
+
+input {
+  height: 40px;
 }
