@@ -18,3 +18,11 @@
 input {
   height: 40px;
 }
+/* css for grid eclipse section */
+.box {
+}
+.eclips-section {
+  /* display: grid; */
+  border: 2px solid black;
+  padding: 12px;
+}
